@@ -1,0 +1,20 @@
+﻿Front;Back;Tags
+What is the entry point of a C# program?;The Main method.;Programming C#
+How do you declare a variable in C#?;"type variableName = value; (e.g. int age = 25;)";Programming C#
+What is the difference between int and double?;"int holds whole numbers; double holds floating-point numbers (decimals).";Programming C#
+"What does using System; do?";It allows access to types in the System namespace (e.g. Console).;Programming C#
+What is a class in C#?;A blueprint for creating objects. It defines properties, fields, and methods.;Programming C#
+How do you define a method in C#?;returnType MethodName(parameters)  {    // code };Programming C#
+What keyword is used to create an object?;"new (e.g. Person p = new Person();)";Programming C#
+What is a namespace in C#?;A container for classes and other types to organize code.;Programming C#
+What does Console.WriteLine() do?;It prints a message to the console followed by a newline.;Programming C#
+What is inheritance in C#?;When a class derives from another class, gaining its members (fields, methods). Use : to inherit. Example: class Dog : Animal { };Programming C#
+What is the difference between public, private, and protected?;    public: accessible from anywhere      private: accessible only within the class      protected: accessible within the class and its subclasses  ;Programming C#
+What is an interface in C#?;A contract that classes can implement. It defines method signatures without implementation.;Programming C#
+How do you declare an array in C#?;"type[] arrayName = new type[size]; or type[] arrayName = { val1, val2 };";Programming C#
+What is a constructor?;A special method called when an object is created, used to initialize data.;Programming C#
+How do you handle exceptions in C#?;With try, catch, and optionally finally.;Programming C#
+What is static in C#?;Declares a member that belongs to the class itself, not instances.;Programming C#
+What does override mean?;It allows a derived class to provide a specific implementation of a method defined in a base class.;Programming C#
+What is null in C#?;It represents the absence of a value for reference types.;Programming C#
+What is the difference between == and Equals()?;Err:509;Programming C#
